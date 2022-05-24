@@ -1,19 +1,19 @@
 Algoritmo "semnome"
 // 
 //  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 27/04/2022
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 
-Nome : caractere
+endereco : caractere
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-escreva("Digite seu nome: ")
-leia(Nome)
-escreva("seja Bem-vindo: " + Nome)
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
+escreva("Digite seu endereÃ§o: ")
+leia(endereco)
+escreva("VocÃª mora em: " + endereco)
 
 
 Fimalgoritmo
