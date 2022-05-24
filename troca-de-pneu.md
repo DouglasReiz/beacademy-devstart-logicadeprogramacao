@@ -1,0 +1,26 @@
+# Algoritmo troca de pneu
+
+- Parar o carro.
+- Desligar o carro.
+- Soltar o cinto de segurança.
+- Abrir o porta malas.
+- Pegar o triângulo.
+- Posicionar o triângulo.
+- Verificar o estepe.
+- Verificar as ferramentas.
+- Pegar o macaco.
+- Colocar o macaco embaixo do carro.
+- Afrouxar a roda.
+- Levantar o carro.
+- Tirar a  roda.
+- Colocar o estepe.
+- Apertar o estepe.
+- Descer o macaco.
+- Verificar o aperto do estepe.
+- Guardar as ferramentas e a roda furada.
+- Pegar o triângulo.
+- Guardar o triângulo.
+- Fechar o porta malas.
+- Entrar no carro.
+- Colocar o cinto de segurança.
+- Seguir a viagem.
